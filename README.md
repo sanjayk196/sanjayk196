@@ -45,11 +45,8 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
 
-<br>
-<br>
-<br>
-<br>
 
 
+## portfolio
 [<img alt="portfolio" src="Screen Recording - June 5, 2023.gif">](https://sanjayk196.github.io/portfolio/)
 
