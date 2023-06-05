@@ -1,9 +1,13 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 ### Namaste🙏🏻, I am K. S. Subrahmanyam 👋
 [![Linkedin Badge](https://img.shields.io/badge/-kss196-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kss196/)](https://www.linkedin.com/in/kss196/)
 [![Gmail Badge](https://img.shields.io/badge/-sanjaykantiboyina@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjaykantiboyina@gmail.com)](mailto:sanjaykantiboyina@gmail.com) 
+
+
+
 
 
 
@@ -37,8 +41,6 @@
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 ### :zap: Github Stats
