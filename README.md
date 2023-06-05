@@ -45,7 +45,11 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
 
+<br>
+<br>
+<br>
+<br>
 
-### :zap: Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayk196&show_icons=true&locale=en" alt="sanjayk196" /></p>
+
+[<img alt="portfolio" src="Screen Recording - June 5, 2023.gif">](https://sanjayk196.github.io/portfolio/)
 
